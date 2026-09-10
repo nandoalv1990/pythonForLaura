@@ -23,3 +23,5 @@ print(TextoC)
 print("Los valores booleanos")
 print(bool1)
 print(bool2)
+
+# Fin del programa
