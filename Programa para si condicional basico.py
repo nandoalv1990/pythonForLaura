@@ -18,3 +18,8 @@ for letra in nombre:
 diccionario = {'a':1, 'b':2, 'c':3} # Esta es una lista
 for clave, numero in diccionario.items():
     print(f"Clave {clave}\tIndice {numero}")
+
+# Reto: Crear un contador que imprima la tabla del siete (mi versión)
+n = 7
+for i in range(11):
+    print(f"{n} x {i} = {n*i}")
